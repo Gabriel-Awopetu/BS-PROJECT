@@ -1,0 +1,33 @@
+.navlinks {
+  text-decoration: none;
+}
+/* .button {
+  width: auto;
+  height: 100px;
+} */
+/* .nav {
+  height: 100px;
+} */
+.custom-button {
+  background-color: white;
+  color: #333;
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+.custom-button:hover {
+  background-color: black;
+  color: white;
+}
+.HT {
+  padding-top: 6rem;
+  font-size: 4rem;
+  font-weight: 700;
+}
+.HTT {
+  padding-bottom: 6rem;
+}
+.prodsec {
+  margin-bottom: 7rem;
+}
+.headr {
+  margin-bottom: 7rem;
+}
